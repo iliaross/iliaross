@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/dc7d1fb2-7410-4874-8a94-1687ed721764#gh-light-mode-only" target="_blank">
-    <img width="627"src="https://github.com/user-attachments/assets/dc7d1fb2-7410-4874-8a94-1687ed721764">
-  </a>
-  <a href="https://github.com/user-attachments/assets/a7641e6e-c050-4539-bcb8-00f58fe02a94#gh-dark-mode-only" target="_blank">
-    <img width="627" src="https://github.com/user-attachments/assets/a7641e6e-c050-4539-bcb8-00f58fe02a94">
-  </a>
+  <img width="627" src="https://github.com/user-attachments/assets/3d752b1b-5377-443e-891a-ffce0359f685#gh-light-mode-only">
+  <img width="627" src="https://github.com/user-attachments/assets/2ca8ddea-b5de-422a-a388-5401f6cc571f#gh-dark-mode-only">
 </p>
